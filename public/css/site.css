@@ -1,0 +1,46 @@
+body.body1 {
+    background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/38094b95235473.5e92ecc4409a8.gif);
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+body.body2{
+    background-image:url(https://giffiles.alphacoders.com/212/212812.gif);
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+p{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+h2{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    width: 100%;
+}
+span{
+    background-color: black;
+    color: white;
+}
+li{
+    background-color: black;
+    color: white;
+}
+ul{
+    background-color: black;
+    color: white;
+}
+div.container-fluid{
+    background-color: black;
+    color: white;
+}

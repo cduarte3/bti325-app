@@ -19,7 +19,6 @@ var Obj = {"message": null};
 var path = require("path"); // include moduel path to use __dirname, and function path.join()
 
 app.use(express.static('public'));
-app.use(express.static('views'));
 // call this function after the http server starts listening for requests
 function onHttpStart(){
     console.log("Express http server listening on: " + HTTP_PORT);
