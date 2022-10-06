@@ -11,7 +11,7 @@ other source
 *
 *************************************************************************/
 var express = require("express"); // Include express.js module
-var service = require("../bti325-app/data-service.js"); // include data - service module
+var service = require("./data-service.js"); // include data - service module
 var app = express();
 var HTTP_PORT = process.env.PORT || 8080;
 var Obj = {"message": null};
