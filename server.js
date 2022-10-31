@@ -1,5 +1,5 @@
 /*************************************************************************
-* BTI325– Assignment 2
+* BTI325– Assignment 3
 * I declare that this assignment is my own work in accordance with Seneca Academic 
 Policy. No part * of this assignment has been copied manually or electronically from any 
 other source 
@@ -7,7 +7,7 @@ other source
 * 
 * Name: Christian Duarte Student ID: 158217208 Date: October 3rd 2022
 *
-* Your app’s URL (from Cyclic) : https://fine-ruby-battledress.cyclic.app/
+* Your app’s URL (from Heroku) : https://spooky-plague-23952.herokuapp.com/
 *
 *************************************************************************/
 var express = require("express"); // Include express.js module
