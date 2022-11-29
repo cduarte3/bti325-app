@@ -44,3 +44,61 @@ div.container-fluid{
     background-color: black;
     color: white;
 }
+table{
+    background-color: black;
+    color:white;
+}
+form{
+    color:white;
+}
+label{
+    background-color: black;
+    color:white;
+    padding:4px;
+}
+input[type="text"], textarea {
+    background-color : black; 
+    color: white;
+}
+input[type="email"], textarea {
+    background-color : black; 
+    color: white;
+}
+select, textarea {
+    background-color : black; 
+    color: white;
+}
+option, textarea {
+    background-color : black; 
+    color: white;
+}
+legend{
+    background-color : black; 
+    color: white;
+}
+td{
+    background-color : black; 
+    color: white;
+    padding: 10px;
+}
+tr{
+    border-bottom: 1px solid beige;
+}
+th{
+    padding: 10px;
+}
+input{
+    background-color : black; 
+    color: white;
+}
+input[type=text]{
+    background-color: black;
+    color: white;
+}
+select.form-control {
+    background-color: black;
+    color: white;
+}
+input[type=readonly] {
+    color: black;
+}
